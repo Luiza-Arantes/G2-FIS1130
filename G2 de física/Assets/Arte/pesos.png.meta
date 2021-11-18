@@ -115,10 +115,10 @@ TextureImporter:
       name: pesos_0
       rect:
         serializedVersion: 2
-        x: 247
-        y: 3
-        width: 62
-        height: 96
+        x: 24
+        y: 28
+        width: 60
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,10 +136,10 @@ TextureImporter:
       name: pesos_1
       rect:
         serializedVersion: 2
-        x: 317
-        y: 3
-        width: 78
-        height: 120
+        x: 93
+        y: 28
+        width: 74
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,10 +157,10 @@ TextureImporter:
       name: pesos_2
       rect:
         serializedVersion: 2
-        x: 403
-        y: 4
-        width: 96
-        height: 144
+        x: 179
+        y: 29
+        width: 91
+        height: 143
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
