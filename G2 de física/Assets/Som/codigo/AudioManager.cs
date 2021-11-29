@@ -32,6 +32,12 @@ public class AudioManager : MonoBehaviour
 			s.source.outputAudioMixerGroup = mixerGroup;
 		}
 	}
+	
+	void Start() 
+	{
+		Play("Amb_1");
+		Play("Amb_2");
+	}
 
 	public void Play(string sound)
 	{
